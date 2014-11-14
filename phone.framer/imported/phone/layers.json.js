@@ -1,0 +1,989 @@
+window.__imported__ = window.__imported__ || {};
+window.__imported__["phone/layers.json.js"] = [
+	{
+		"id": 237,
+		"name": "background",
+		"layerFrame": {
+			"x": 0,
+			"y": 0,
+			"width": 750,
+			"height": 1334
+		},
+		"maskFrame": null,
+		"image": {
+			"path": "images/background.png",
+			"frame": {
+				"x": 0,
+				"y": 0,
+				"width": 750,
+				"height": 1334
+			}
+		},
+		"imageType": "png",
+		"children": [
+			
+		],
+		"modification": "654816754"
+	},
+	{
+		"id": 261,
+		"name": "requestsent",
+		"layerFrame": {
+			"x": 0,
+			"y": 0,
+			"width": 750,
+			"height": 1334
+		},
+		"maskFrame": null,
+		"image": null,
+		"imageType": null,
+		"children": [
+			{
+				"id": 277,
+				"name": "opaque",
+				"layerFrame": {
+					"x": 0,
+					"y": 0,
+					"width": 750,
+					"height": 1334
+				},
+				"maskFrame": null,
+				"image": {
+					"path": "images/opaque.png",
+					"frame": {
+						"x": 232,
+						"y": 231,
+						"width": 286,
+						"height": 592
+					}
+				},
+				"imageType": "png",
+				"children": [
+					
+				],
+				"modification": "104262084"
+			},
+			{
+				"id": 272,
+				"name": "friends copy",
+				"layerFrame": {
+					"x": 0,
+					"y": 0,
+					"width": 750,
+					"height": 1334
+				},
+				"maskFrame": null,
+				"image": {
+					"path": "images/friends copy.png",
+					"frame": {
+						"x": 139,
+						"y": 988,
+						"width": 491,
+						"height": 141
+					}
+				},
+				"imageType": "png",
+				"children": [
+					
+				],
+				"modification": "279190601"
+			},
+			{
+				"id": 276,
+				"name": "newzealand copy",
+				"layerFrame": {
+					"x": 0,
+					"y": 0,
+					"width": 750,
+					"height": 1334
+				},
+				"maskFrame": null,
+				"image": {
+					"path": "images/newzealand copy.png",
+					"frame": {
+						"x": 0,
+						"y": 0,
+						"width": 750,
+						"height": 1334
+					}
+				},
+				"imageType": "png",
+				"children": [
+					
+				],
+				"modification": "1371956017"
+			}
+		],
+		"modification": "1407946855"
+	},
+	{
+		"id": 159,
+		"name": "create",
+		"layerFrame": {
+			"x": 0,
+			"y": 0,
+			"width": 750,
+			"height": 1334
+		},
+		"maskFrame": null,
+		"image": {
+			"path": "images/create.png",
+			"frame": {
+				"x": 39,
+				"y": 14,
+				"width": 536,
+				"height": 752
+			}
+		},
+		"imageType": "png",
+		"children": [
+			{
+				"id": 193,
+				"name": "friends",
+				"layerFrame": {
+					"x": 0,
+					"y": 0,
+					"width": 750,
+					"height": 1334
+				},
+				"maskFrame": null,
+				"image": {
+					"path": "images/friends.png",
+					"frame": {
+						"x": 424,
+						"y": 590,
+						"width": 305,
+						"height": 88
+					}
+				},
+				"imageType": "png",
+				"children": [
+					
+				],
+				"modification": "1434235900"
+			},
+			{
+				"id": 179,
+				"name": "this_destination copy",
+				"layerFrame": {
+					"x": 0,
+					"y": 0,
+					"width": 750,
+					"height": 1334
+				},
+				"maskFrame": null,
+				"image": {
+					"path": "images/this_destination copy.png",
+					"frame": {
+						"x": 0,
+						"y": 150,
+						"width": 750,
+						"height": 490
+					}
+				},
+				"imageType": "png",
+				"children": [
+					
+				],
+				"modification": "2146229191"
+			},
+			{
+				"id": 258,
+				"name": "time",
+				"layerFrame": {
+					"x": 0,
+					"y": 0,
+					"width": 750,
+					"height": 1334
+				},
+				"maskFrame": null,
+				"image": {
+					"path": "images/time.png",
+					"frame": {
+						"x": 53,
+						"y": 985,
+						"width": 637,
+						"height": 35
+					}
+				},
+				"imageType": "png",
+				"children": [
+					
+				],
+				"modification": "1319807912"
+			},
+			{
+				"id": 228,
+				"name": "time_picker",
+				"layerFrame": {
+					"x": 0,
+					"y": 0,
+					"width": 750,
+					"height": 1334
+				},
+				"maskFrame": null,
+				"image": {
+					"path": "images/time_picker.png",
+					"frame": {
+						"x": 0,
+						"y": 1048,
+						"width": 750,
+						"height": 286
+					}
+				},
+				"imageType": "png",
+				"children": [
+					
+				],
+				"modification": "620352692"
+			},
+			{
+				"id": 191,
+				"name": "startbuttoncopy",
+				"layerFrame": {
+					"x": 0,
+					"y": 0,
+					"width": 750,
+					"height": 1334
+				},
+				"maskFrame": null,
+				"image": {
+					"path": "images/startbuttoncopy.png",
+					"frame": {
+						"x": 62,
+						"y": 1138,
+						"width": 635,
+						"height": 117
+					}
+				},
+				"imageType": "png",
+				"children": [
+					
+				],
+				"modification": "815115899"
+			},
+			{
+				"id": 254,
+				"name": "exciting",
+				"layerFrame": {
+					"x": 0,
+					"y": 0,
+					"width": 750,
+					"height": 1334
+				},
+				"maskFrame": null,
+				"image": {
+					"path": "images/exciting.png",
+					"frame": {
+						"x": 305,
+						"y": 804,
+						"width": 104,
+						"height": 108
+					}
+				},
+				"imageType": "png",
+				"children": [
+					
+				],
+				"modification": "353062964"
+			},
+			{
+				"id": 256,
+				"name": "touristy",
+				"layerFrame": {
+					"x": 0,
+					"y": 0,
+					"width": 750,
+					"height": 1334
+				},
+				"maskFrame": null,
+				"image": {
+					"path": "images/touristy.png",
+					"frame": {
+						"x": 39,
+						"y": 812,
+						"width": 105,
+						"height": 100
+					}
+				},
+				"imageType": "png",
+				"children": [
+					
+				],
+				"modification": "233180662"
+			},
+			{
+				"id": 218,
+				"name": "exciting_green",
+				"layerFrame": {
+					"x": 0,
+					"y": 0,
+					"width": 750,
+					"height": 1334
+				},
+				"maskFrame": null,
+				"image": {
+					"path": "images/exciting_green.png",
+					"frame": {
+						"x": 305,
+						"y": 804,
+						"width": 104,
+						"height": 108
+					}
+				},
+				"imageType": "png",
+				"children": [
+					
+				],
+				"modification": "1108481059"
+			},
+			{
+				"id": 220,
+				"name": "tourist_green",
+				"layerFrame": {
+					"x": 0,
+					"y": 0,
+					"width": 750,
+					"height": 1334
+				},
+				"maskFrame": null,
+				"image": {
+					"path": "images/tourist_green.png",
+					"frame": {
+						"x": 39,
+						"y": 812,
+						"width": 105,
+						"height": 100
+					}
+				},
+				"imageType": "png",
+				"children": [
+					
+				],
+				"modification": "995214782"
+			},
+			{
+				"id": 216,
+				"name": "otherroutes",
+				"layerFrame": {
+					"x": 0,
+					"y": 0,
+					"width": 750,
+					"height": 1334
+				},
+				"maskFrame": null,
+				"image": {
+					"path": "images/otherroutes.png",
+					"frame": {
+						"x": 182,
+						"y": 799,
+						"width": 529,
+						"height": 113
+					}
+				},
+				"imageType": "png",
+				"children": [
+					
+				],
+				"modification": "719952113"
+			}
+		],
+		"modification": "1121551177"
+	},
+	{
+		"id": 99,
+		"name": "friendss",
+		"layerFrame": {
+			"x": 0,
+			"y": 0,
+			"width": 750,
+			"height": 1334
+		},
+		"maskFrame": null,
+		"image": {
+			"path": "images/friendss.png",
+			"frame": {
+				"x": 39,
+				"y": 14,
+				"width": 528,
+				"height": 122
+			}
+		},
+		"imageType": "png",
+		"children": [
+			{
+				"id": 120,
+				"name": "friends_pics",
+				"layerFrame": {
+					"x": 0,
+					"y": 0,
+					"width": 750,
+					"height": 1334
+				},
+				"maskFrame": null,
+				"image": {
+					"path": "images/friends_pics.png",
+					"frame": {
+						"x": 53,
+						"y": 179,
+						"width": 153,
+						"height": 1155
+					}
+				},
+				"imageType": "png",
+				"children": [
+					
+				],
+				"modification": "1802398473"
+			},
+			{
+				"id": 141,
+				"name": "friends_text",
+				"layerFrame": {
+					"x": 0,
+					"y": 0,
+					"width": 750,
+					"height": 1334
+				},
+				"maskFrame": null,
+				"image": {
+					"path": "images/friends_text.png",
+					"frame": {
+						"x": 240,
+						"y": 219,
+						"width": 217,
+						"height": 1115
+					}
+				},
+				"imageType": "png",
+				"children": [
+					
+				],
+				"modification": "980548997"
+			},
+			{
+				"id": 118,
+				"name": "line dividers",
+				"layerFrame": {
+					"x": 0,
+					"y": 0,
+					"width": 750,
+					"height": 1334
+				},
+				"maskFrame": null,
+				"image": {
+					"path": "images/line dividers.png",
+					"frame": {
+						"x": 32,
+						"y": 363,
+						"width": 682,
+						"height": 891
+					}
+				},
+				"imageType": "png",
+				"children": [
+					
+				],
+				"modification": "1242160935"
+			},
+			{
+				"id": 248,
+				"name": "emma",
+				"layerFrame": {
+					"x": 0,
+					"y": 0,
+					"width": 750,
+					"height": 1334
+				},
+				"maskFrame": null,
+				"image": {
+					"path": "images/emma.png",
+					"frame": {
+						"x": 0,
+						"y": 1031,
+						"width": 750,
+						"height": 218
+					}
+				},
+				"imageType": "png",
+				"children": [
+					
+				],
+				"modification": "337204002"
+			},
+			{
+				"id": 246,
+				"name": "lindsay",
+				"layerFrame": {
+					"x": 0,
+					"y": 0,
+					"width": 750,
+					"height": 1334
+				},
+				"maskFrame": null,
+				"image": {
+					"path": "images/lindsay.png",
+					"frame": {
+						"x": 0,
+						"y": 587,
+						"width": 750,
+						"height": 218
+					}
+				},
+				"imageType": "png",
+				"children": [
+					
+				],
+				"modification": "2031873786"
+			},
+			{
+				"id": 244,
+				"name": "priya",
+				"layerFrame": {
+					"x": 0,
+					"y": 0,
+					"width": 750,
+					"height": 1334
+				},
+				"maskFrame": null,
+				"image": {
+					"path": "images/priya.png",
+					"frame": {
+						"x": 0,
+						"y": 148,
+						"width": 750,
+						"height": 218
+					}
+				},
+				"imageType": "png",
+				"children": [
+					
+				],
+				"modification": "575843607"
+			},
+			{
+				"id": 151,
+				"name": "checkmark3",
+				"layerFrame": {
+					"x": 0,
+					"y": 0,
+					"width": 750,
+					"height": 1334
+				},
+				"maskFrame": null,
+				"image": {
+					"path": "images/checkmark3.png",
+					"frame": {
+						"x": 0,
+						"y": 1031,
+						"width": 750,
+						"height": 220
+					}
+				},
+				"imageType": "png",
+				"children": [
+					
+				],
+				"modification": "1502064710"
+			},
+			{
+				"id": 149,
+				"name": "checkmark2",
+				"layerFrame": {
+					"x": 0,
+					"y": 0,
+					"width": 750,
+					"height": 1334
+				},
+				"maskFrame": null,
+				"image": {
+					"path": "images/checkmark2.png",
+					"frame": {
+						"x": 0,
+						"y": 587,
+						"width": 750,
+						"height": 218
+					}
+				},
+				"imageType": "png",
+				"children": [
+					
+				],
+				"modification": "1634271038"
+			},
+			{
+				"id": 147,
+				"name": "checkmark1",
+				"layerFrame": {
+					"x": 0,
+					"y": 0,
+					"width": 750,
+					"height": 1334
+				},
+				"maskFrame": null,
+				"image": {
+					"path": "images/checkmark1.png",
+					"frame": {
+						"x": 0,
+						"y": 148,
+						"width": 750,
+						"height": 218
+					}
+				},
+				"imageType": "png",
+				"children": [
+					
+				],
+				"modification": "1864671922"
+			},
+			{
+				"id": 250,
+				"name": "next",
+				"layerFrame": {
+					"x": 0,
+					"y": 0,
+					"width": 750,
+					"height": 1334
+				},
+				"maskFrame": null,
+				"image": {
+					"path": "images/next.png",
+					"frame": {
+						"x": 622,
+						"y": 58,
+						"width": 92,
+						"height": 35
+					}
+				},
+				"imageType": "png",
+				"children": [
+					
+				],
+				"modification": "112401691"
+			},
+			{
+				"id": 252,
+				"name": "green_next",
+				"layerFrame": {
+					"x": 0,
+					"y": 0,
+					"width": 750,
+					"height": 1334
+				},
+				"maskFrame": null,
+				"image": {
+					"path": "images/green_next.png",
+					"frame": {
+						"x": 622,
+						"y": 58,
+						"width": 92,
+						"height": 35
+					}
+				},
+				"imageType": "png",
+				"children": [
+					
+				],
+				"modification": "2028765813"
+			}
+		],
+		"modification": "1008476011"
+	},
+	{
+		"id": 81,
+		"name": "destination",
+		"layerFrame": {
+			"x": 0,
+			"y": 0,
+			"width": 750,
+			"height": 1334
+		},
+		"maskFrame": null,
+		"image": {
+			"path": "images/destination.png",
+			"frame": {
+				"x": 0,
+				"y": 14,
+				"width": 750,
+				"height": 1320
+			}
+		},
+		"imageType": "png",
+		"children": [
+			{
+				"id": 94,
+				"name": "otherdestinations",
+				"layerFrame": {
+					"x": 0,
+					"y": 0,
+					"width": 750,
+					"height": 1334
+				},
+				"maskFrame": null,
+				"image": {
+					"path": "images/otherdestinations.png",
+					"frame": {
+						"x": 43,
+						"y": 526,
+						"width": 670,
+						"height": 576
+					}
+				},
+				"imageType": "png",
+				"children": [
+					
+				],
+				"modification": "369075581"
+			},
+			{
+				"id": 92,
+				"name": "this_destination",
+				"layerFrame": {
+					"x": 0,
+					"y": 0,
+					"width": 750,
+					"height": 1334
+				},
+				"maskFrame": null,
+				"image": {
+					"path": "images/this_destination.png",
+					"frame": {
+						"x": 0,
+						"y": 150,
+						"width": 750,
+						"height": 490
+					}
+				},
+				"imageType": "png",
+				"children": [
+					
+				],
+				"modification": "1942400991"
+			}
+		],
+		"modification": "179723116"
+	},
+	{
+		"id": 54,
+		"name": "explore",
+		"layerFrame": {
+			"x": 0,
+			"y": 0,
+			"width": 750,
+			"height": 1334
+		},
+		"maskFrame": null,
+		"image": {
+			"path": "images/explore.png",
+			"frame": {
+				"x": 269,
+				"y": 14,
+				"width": 205,
+				"height": 122
+			}
+		},
+		"imageType": "png",
+		"children": [
+			{
+				"id": 235,
+				"name": "fooddining",
+				"layerFrame": {
+					"x": 0,
+					"y": 0,
+					"width": 750,
+					"height": 1334
+				},
+				"maskFrame": null,
+				"image": {
+					"path": "images/fooddining.png",
+					"frame": {
+						"x": 0,
+						"y": 913,
+						"width": 372,
+						"height": 376
+					}
+				},
+				"imageType": "png",
+				"children": [
+					
+				],
+				"modification": "963936459"
+			},
+			{
+				"id": 52,
+				"name": "explore_text",
+				"layerFrame": {
+					"x": 0,
+					"y": 0,
+					"width": 750,
+					"height": 1334
+				},
+				"maskFrame": null,
+				"image": {
+					"path": "images/explore_text.png",
+					"frame": {
+						"x": 87,
+						"y": 282,
+						"width": 618,
+						"height": 876
+					}
+				},
+				"imageType": "png",
+				"children": [
+					
+				],
+				"modification": "1585055437"
+			},
+			{
+				"id": 61,
+				"name": "explore_art_overlays",
+				"layerFrame": {
+					"x": 0,
+					"y": 0,
+					"width": 750,
+					"height": 1334
+				},
+				"maskFrame": null,
+				"image": {
+					"path": "images/explore_art_overlays.png",
+					"frame": {
+						"x": 0,
+						"y": 150,
+						"width": 750,
+						"height": 1139
+					}
+				},
+				"imageType": "png",
+				"children": [
+					
+				],
+				"modification": "1182580442"
+			},
+			{
+				"id": 43,
+				"name": "explore_art",
+				"layerFrame": {
+					"x": 0,
+					"y": 0,
+					"width": 750,
+					"height": 1334
+				},
+				"maskFrame": null,
+				"image": {
+					"path": "images/explore_art.png",
+					"frame": {
+						"x": 0,
+						"y": 149,
+						"width": 750,
+						"height": 1139
+					}
+				},
+				"imageType": "png",
+				"children": [
+					
+				],
+				"modification": "813873956"
+			}
+		],
+		"modification": "2065855184"
+	},
+	{
+		"id": 21,
+		"name": "signin",
+		"layerFrame": {
+			"x": 0,
+			"y": 0,
+			"width": 750,
+			"height": 1334
+		},
+		"maskFrame": null,
+		"image": {
+			"path": "images/signin.png",
+			"frame": {
+				"x": 240,
+				"y": 206,
+				"width": 273,
+				"height": 235
+			}
+		},
+		"imageType": "png",
+		"children": [
+			{
+				"id": 65,
+				"name": "description",
+				"layerFrame": {
+					"x": 0,
+					"y": 0,
+					"width": 750,
+					"height": 1334
+				},
+				"maskFrame": null,
+				"image": {
+					"path": "images/description.png",
+					"frame": {
+						"x": 163,
+						"y": 468,
+						"width": 435,
+						"height": 258
+					}
+				},
+				"imageType": "png",
+				"children": [
+					
+				],
+				"modification": "2006605122"
+			},
+			{
+				"id": 63,
+				"name": "startbutton",
+				"layerFrame": {
+					"x": 0,
+					"y": 0,
+					"width": 750,
+					"height": 1334
+				},
+				"maskFrame": null,
+				"image": {
+					"path": "images/startbutton.png",
+					"frame": {
+						"x": 62,
+						"y": 1138,
+						"width": 635,
+						"height": 117
+					}
+				},
+				"imageType": "png",
+				"children": [
+					
+				],
+				"modification": "339069844"
+			},
+			{
+				"id": 67,
+				"name": "newzealand",
+				"layerFrame": {
+					"x": 0,
+					"y": 0,
+					"width": 750,
+					"height": 1334
+				},
+				"maskFrame": null,
+				"image": {
+					"path": "images/newzealand.png",
+					"frame": {
+						"x": 0,
+						"y": 0,
+						"width": 750,
+						"height": 1334
+					}
+				},
+				"imageType": "png",
+				"children": [
+					
+				],
+				"modification": "335727238"
+			}
+		],
+		"modification": "977584121"
+	}
+]
